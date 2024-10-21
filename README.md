@@ -21,7 +21,7 @@ python3 vk_user_info.py <user_id> <output_path> <access_token>
 Windows:
 
 ```bash
-python3 vk_user_info.py <user_id> <output_path> <access_token>
+python vk_user_info.py <user_id> <output_path> <access_token>
 ```
 
 4. Done!
