@@ -9,19 +9,19 @@ Obtain your VK API access token.
 ## Usage
 
 1. Open Terminal.
-2. Unzip the downloaded repository.
+2. Unzip the downloaded repository. You need to be in the same folder with the script or you may need write a full path.
 3. Run the Application:
 
-For Ubuntu:
+Ubuntu:
 
 ```bash
-python3 vk_user_info.py <user_id> <output_path> <access_token>
+python3 vk_user_info.py <user_id> <access_token> <output_path>
 ```
 
 Windows:
 
 ```bash
-python vk_user_info.py <user_id> <output_path> <access_token>
+python vk_user_info.py <user_id> <access_token> <output_path>
 ```
 
 4. Done!
